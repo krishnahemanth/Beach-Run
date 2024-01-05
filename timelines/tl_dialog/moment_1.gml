@@ -1,0 +1,1 @@
+showDialog("Collect The TRASH")
